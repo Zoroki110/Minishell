@@ -88,7 +88,7 @@ Handles `SIGINT` (`Ctrl+C`), `SIGQUIT` (`Ctrl+\`), and `EOF` (`Ctrl+D`).
 ## 🏆 Acknowledgments
 This project was completed as part of the **42 School** curriculum.
 </br>
-Special thanks [Toiki](https://github.com/Zoroki110) for this group project.
+Special thanks [Simon](https://github.com/Simonnawara) for this group project.
 
 
 
